@@ -1,0 +1,22 @@
+{
+  "name": "webbi-skools-v2",
+  "version": "2.2.0",
+  "description": "Synoptic project: Charlie Allen",
+  "main": "handler.js",
+  "scripts": {
+    "test": "serverless-bundle test"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "aws-sdk": "^2.807.0",
+    "serverless-bundle": "^3.2.0",
+    "serverless-dotenv-plugin": "^2.1.1",
+    "serverless-offline": "^5.3.3"
+  },
+  "dependencies": {
+    "uuid": "^7.0.3"
+  },
+  "package":{
+  "individually": true}
+}
