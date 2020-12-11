@@ -17,6 +17,7 @@
   "dependencies": {
     "uuid": "^7.0.3"
   },
-  "package":{
-  "individually": true}
+  "package": {
+    "individually": true
+  }
 }
